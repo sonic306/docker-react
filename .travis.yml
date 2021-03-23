@@ -11,6 +11,5 @@ deploy:
   api_key:
     secure: $Heroku_Secure_Token
   app: sampleapplicaton
-  strategy: git
   on:
     branch: main
