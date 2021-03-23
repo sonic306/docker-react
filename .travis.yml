@@ -10,7 +10,7 @@ deploy:
   provider: heroku
   api_key:
     secure: dKK7wN8AcfZVy/q8uRZce3LPtCo8aSRw+a6KttgTKphmW0ymP1GkeiQUuv0MHxjQvf05NTmROpzdrqy06Av7O5bcmZWI0Jh+BrCgEQkcN619EENe545KWrdSEzQDXfnNGhpouUkXGLpcSbLq22tZOhDEko2FFdvmxOivZHUN6wRdnHQgM50oHR+ddNvwBVlfMeKo5fqjhBcehXkhDEO2oW+JqSQGzDMvA1XemcU/Ap7+guo877lOp5CxxpeSWvHMmSnQg5oop+E996d+583TUvXpUUZ20xUi1+Tv/2/G4r7E+CsoT6bYjFur4x2eHPm0/PditTausL8MellD8ffXSgc7k23gKRjgtnCpjf86nKNBuvoovSx4dd+v9A/sDpgh5qoyFvd3Pvyr2o/DgQq3FRsudWZU6zEZa/l4rkJFTRZoaRqfhr0l6SZV8zueT9Gp5YKB/U80UCYQbP4lCoS9D+eq3CpTX+/TdXNJIq2w3ST1WSG9AP4girg9X16pEfNA3TGysSO9isClbbNGLFyT/LGb9cQk3Es7OS3QsM0maamM4DcXJ/VP8k4xsECzWC5J3kE3lXLfFKx1c6xe+Qpbc8dGjtgix8V/j7YJ5z5A57BcKlE4KxA/X6+AlhDts/LEz7QdjcN8X4uMNlUcA6dGXsneO3A7rtwqd/kfjuahVXc=
-  app: sampleapplicaition
+  app: sampleapplicaton
   strategy: git
   on:
     branch: main
